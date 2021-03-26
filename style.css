@@ -24,7 +24,7 @@ body {
 	margin: 0px auto;
 }
 
-.wrapper {
+.contenedor {
 	display: flex;
 	max-width: 968px;
 	margin: 20px auto;
