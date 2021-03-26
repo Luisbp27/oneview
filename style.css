@@ -64,7 +64,7 @@ body {
 	background-color:  var(--secondary-color, #fafafa);
 	padding: 24px;
 	border-radius: 12px;
-	width:700px;
+	width: 570px;
 	margin: 0px auto;
 	color: var(--tertiary-color, #333333);
 }
