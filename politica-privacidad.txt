@@ -1,34 +1,33 @@
 PLANTILLA DE POLÍTICA DE PRIVACIDAD SEGÚN LA RGPD
-Sustituye en el documento los códigos de tres letras por la información correspondiente:
 
-AAA – Alias comercial de la compañía.
-BBB – Denominación social de la compañía o Nombre + NIF (Autónomos).
-CCC – Dato personal necesario para llevar a cabo la actividad.
-DDD – Objetivo de la recopilación de datos.(Ofrecer productos, enviar noticias, etc.)
-EEE – Nombre de la persona o compañía que gestionará los datos personales.
-FFF – Elimina los métodos de protección que no se utilicen.
-GGG – Página de herramientas de privacidad.
-HHH – E-mail de contacto.
-III – Domicilio fiscal.
-JJJ – Identificador fiscal.
-KKK – Denominación comercial del proveedor de hosting.
-LLL – Domicilio fiscal del proveedor de hosting.
-MMM – URL de la web
-NNN – Fecha de la última modificación de la Política de Privacidad
+One View Software
+Denominación social de la compañía o Nombre + NIF (Autónomos).
+Dato personal necesario para llevar a cabo la actividad.
+Ofrecer un servicio
+Luis Barca Pons
+Elimina los métodos de protección que no se utilicen.
+Página de herramientas de privacidad.
+info.oneviewsoftware@gmail.com
+C/Jaume Balmes 13
+Identificador fiscal.
+Netlify
+Domicilio fiscal del proveedor de hosting.
+URL de la web
+26/03/2021
 
 INTRODUCCIÓN.
-BBB, en adelante AAA, recopila, trata y almacena información personal a través de la web de su propiedad MMM.
+One View Software, en adelante One View Software, recopila, trata y almacena información personal a través de la web de su propiedad URL.
 
 Esta información será relativa a los usuarios de la web. La información se recopilará, tratara y almacenará conforme a la presente Política de Privacidad.
 
-Esta Política de Privacidad fue actualizada el NNN.
+Esta Política de Privacidad fue actualizada el 26/03/2021.
 
-RESPONSABLE LEGAL
+Luis Barca Pons
 Denominación comercial: AAA
 Denominación social: BBB
 Identificador fiscal: JJJ
-Domicilio: III
-E-mail de contacto: HHH
+Domicilio: C/Jaume Balmes 13
+E-mail de contacto: info.oneviewsoftware@gmail.com
 
 LEYES DE APLICACIÓN EN ESTA WEB
 RGPD (Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas)

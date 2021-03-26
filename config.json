@@ -1,12 +1,12 @@
 {
-	"PAGE_TITLE": "Título de la página",
+	"PAGE_TITLE": "Moda | One View",
 	"PAGE_DESCRIPTION": "Descripción corta de la página",
-	"OFFER_TITLE": "Mi servicio maravilloso",
-	"OFFER_DESCRIPTION": "¿Te interesa este servicio? ¡No dejes escapar esta increíble oportunidad!",
-	"FORM_TITLE": "¿Te interesa este genial servicio?",
-	"FORM_DESCRIPTION": "Recibe ahora mismo un correo electrónico con más información:",
-	"CALL_TO_ACTION": "¡Sí, quiero saber más!",
-	"FORM_RESPONSE_URL": "https://docs.google.com/forms/d/e/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/formResponse",
-	"NAME_INPUT": "entry.XXXXXXXXX"
+	"OFFER_TITLE": "El probador físico en formato digital",
+	"OFFER_DESCRIPTION": "¿Te interesa este servicio? ¡No dejes escapar esta oportunidad!",
+	"FORM_TITLE": "¡Reserva una entrevista ahora!",
+	"FORM_DESCRIPTION": "Introduce tus datos para que podamos contactar contigo lo antes posible. No te preocupes, estamos sujetos a la ley de protección de datos vigente y el tratamiento de estos es completamente confidencial y seguro.",
+	"CALL_TO_ACTION": "CONTACTAR",
+	"FORM_RESPONSE_URL": "https://docs.google.com/forms/u/0/d/e/1FAIpQLSd5bXafe0RQHFHxoVg99t7tm4cfxNx-EXygtyHgG1Qgvjjp5A/formResponse",
+	"NAME_INPUT": "entry.512902104"
 }
 
